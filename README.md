@@ -80,24 +80,6 @@ To become a Data & AI Engineer capable of building intelligent systems that crea
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavyasree1623&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyasree1623&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasree1623&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌟 Featured Projects
 
 ## 🏢 Venue Booking Application
@@ -184,12 +166,6 @@ Android application developed for startup ecosystem solutions.
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kavyasree1623&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
 
 <h3 align="center">
 ✨ AI • Data • Development • Innovation ✨
