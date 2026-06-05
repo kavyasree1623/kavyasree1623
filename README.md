@@ -3,11 +3,6 @@
 </p>
 
 <h1 align="center">✨ Welcome To My GitHub Profile ✨</h1>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kavyasree1623&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-</p>
-
 ---
 
 <table>
