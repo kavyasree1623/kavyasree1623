@@ -59,7 +59,7 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 
 <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1em1yOXZvZzk1c214MWgwc3pydnM4eWl4ZDh6ajJsMDBmc3cwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qadvd1vBaZBBu/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1em1yOXZvZzk1c214MWgwc3pydnM4eWl4ZDh6ajJsMDBmc3cwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qadvd1vBaZBBu/giphy.gif" width="370"/>
 
 </td>
 
