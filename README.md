@@ -1,10 +1,15 @@
+<h1 align="center">
+  ✨ Kavya Sree ✨
+</h1>
+
+<h3 align="center">
+AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Kavya+Sree;AI+%26+Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI+Developer;Full+Stack+Web+Developer;Building+Technology+That+Creates+Impact" />
+Building Intelligent Solutions That Create Real-World Impact 🚀
 </p>
-
 <h1 align="center">✨ Welcome To My GitHub Profile ✨</h1>
----
-
 <table>
 <tr>
 
