@@ -98,3 +98,60 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 <img src="https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
 
 </p>
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Venue Booking Application
+
+A responsive venue booking platform designed to simplify venue discovery and reservations.
+
+**Key Features**
+- Venue Search & Filtering
+- Booking Management
+- Responsive Design
+- Modern User Interface
+
+🔗 Repository: https://github.com/kavyasree1623/Venue-Booking-Application
+
+---
+
+### 🧠 Brain Tumor Classifier
+
+Machine Learning project developed for brain tumor classification using medical imaging data.
+
+**Key Features**
+- Image Classification
+- Data Preprocessing
+- Model Training & Evaluation
+- Healthcare AI Application
+
+🔗 Repository: https://github.com/kavyasree1623/Brain-Tumor-Classifier
+
+---
+
+### 📈 Netflix Stock Price Performance Analysis
+
+Interactive Power BI dashboard analyzing Netflix stock performance and business insights.
+
+**Key Features**
+- KPI Dashboard
+- Interactive Reports
+- Trend Analysis
+- Business Intelligence
+
+🔗 Repository: https://github.com/kavyasree1623/Netflix-Stock-Price-Performance-Analysis-Using-Power-BI
+
+---
+
+### 📱 StartUp Android App
+
+Android application focused on startup ecosystem support and business connectivity.
+
+**Key Features**
+- Mobile Application Development
+- User-Friendly Interface
+- Startup Resource Platform
+- Android Ecosystem Integration
+
+🔗 Repository: https://github.com/kavyasree1623/StartUp-Android-App
