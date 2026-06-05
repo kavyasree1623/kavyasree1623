@@ -1,15 +1,13 @@
-<h1 align="center">Kavya Sree</h1>
+<h1 align="center">
+  ✨ Kavya Sree ✨
+</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Data Analyst | Power BI Developer
+AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
 </h3>
 
 <p align="center">
-Building Technology That Solves Real Problems
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Building Intelligent Solutions That Create Real-World Impact 🚀
 </p>
 # ✨ About Me
 
