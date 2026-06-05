@@ -1,26 +1,21 @@
-```html
-<h1 align="center">
-  <span style="color:#60A5FA;">✨ Kavya Sree ✨</span>
-</h1>
+<h1 align="center">✨ Kavya Sree ✨</h1>
 
 <h3 align="center">
-  <span style="color:#A78BFA;">
-    AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
-  </span>
+AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
 </h3>
 
 <p align="center">
-  <b>🚀 Building Intelligent Solutions That Create Real-World Impact 🚀</b>
+🚀 Building Intelligent Solutions That Create Real-World Impact
 </p>
 
-<br>
+---
 
 <table>
 <tr>
 
 <td width="60%" valign="top">
 
-# ✨ About Me
+## ✨ About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
@@ -67,4 +62,39 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 
 </tr>
 </table>
-```
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+<img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
+<img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
+
+</p>
