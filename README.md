@@ -1,20 +1,16 @@
-<h1 align="center">
-  ✨ Kavya Sree ✨
-</h1>
+<h1 align="center">Kavya Sree</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
+AI & Machine Learning Enthusiast | Data Analyst | Power BI Developer
 </h3>
 
 <p align="center">
-Building Intelligent Solutions That Create Real-World Impact 🚀
+Building Technology That Solves Real Problems
 </p>
-<h1 align="center">✨ Welcome To My GitHub Profile ✨</h1>
-<table>
-<tr>
 
-<td width="60%" valign="top">
-
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 # ✨ About Me
 
 🎓 B.Tech Computer Science Engineering Student
