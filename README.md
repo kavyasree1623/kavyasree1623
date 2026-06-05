@@ -159,11 +159,11 @@ A mobile application focused on supporting startup ecosystems and entrepreneuria
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:goli.kavyasree1612@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in//kavya-sree-goli/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -171,7 +171,7 @@ A mobile application focused on supporting startup ecosystems and entrepreneuria
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="https://www.instagram.com/sree.1.2">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
