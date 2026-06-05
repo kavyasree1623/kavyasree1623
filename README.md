@@ -155,3 +155,40 @@ Android application focused on startup ecosystem support and business connectivi
 - Android Ecosystem Integration
 
 🔗 Repository: https://github.com/kavyasree1623/StartUp-Android-App
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kavyasree1623">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+💡 Open to Collaborations • AI Projects • Data Analytics • Web Development
+</p>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
+
+---
+
+<h3 align="center">
+✨ AI • DATA • DEVELOPMENT • INNOVATION ✨
+</h3>
