@@ -1,19 +1,24 @@
-<h1 align="center">✨ Kavya Sree ✨</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Enthusiast • Data Analyst • Power BI Developer • Full Stack Developer
-</h3>
+# 👩‍💻 Kavya Sree
 
-<p align="center">
-🚀 Building Intelligent Solutions That Create Real-World Impact
+### AI & Machine Learning Enthusiast | Data Analyst | Power BI Developer | Full Stack Developer
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-38BDF8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-FACC15?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-22C55E?style=flat-square"/>
 </p>
 
+### 🚀 Building Intelligent Solutions That Create Real-World Impact
+
+</div>
+
 ---
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
 
 ## ✨ About Me
 
@@ -106,57 +111,61 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 
 A responsive venue booking platform designed to simplify venue discovery and reservations.
 
-**Key Features**
-- Venue Search & Filtering
-- Booking Management
-- Responsive Design
-- Modern User Interface
+**Highlights**
 
-🔗 Repository: https://github.com/kavyasree1623/Venue-Booking-Application
+* Venue Search & Filtering
+* Booking Management System
+* Responsive User Interface
+* Modern Web Design
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ### 🧠 Brain Tumor Classifier
 
-Machine Learning project developed for brain tumor classification using medical imaging data.
+An AI-powered healthcare project that classifies brain tumors using machine learning techniques and medical imaging data.
 
-**Key Features**
-- Image Classification
-- Data Preprocessing
-- Model Training & Evaluation
-- Healthcare AI Application
+**Highlights**
 
-🔗 Repository: https://github.com/kavyasree1623/Brain-Tumor-Classifier
+* Image Classification
+* Data Preprocessing
+* Model Training & Evaluation
+* Healthcare AI Application
+
+**Tech Stack:** Python • Machine Learning
 
 ---
 
 ### 📈 Netflix Stock Price Performance Analysis
 
-Interactive Power BI dashboard analyzing Netflix stock performance and business insights.
+An interactive Power BI dashboard providing insights into Netflix stock performance and business trends.
 
-**Key Features**
-- KPI Dashboard
-- Interactive Reports
-- Trend Analysis
-- Business Intelligence
+**Highlights**
 
-🔗 Repository: https://github.com/kavyasree1623/Netflix-Stock-Price-Performance-Analysis-Using-Power-BI
+* KPI Monitoring
+* Interactive Visualizations
+* Trend Analysis
+* Business Intelligence Reporting
+
+**Tech Stack:** Power BI • Data Analytics
 
 ---
 
 ### 📱 StartUp Android App
 
-Android application focused on startup ecosystem support and business connectivity.
+A mobile application focused on supporting startup ecosystems and entrepreneurial networking.
 
-**Key Features**
-- Mobile Application Development
-- User-Friendly Interface
-- Startup Resource Platform
-- Android Ecosystem Integration
+**Highlights**
 
-🔗 Repository: https://github.com/kavyasree1623/StartUp-Android-App
+* Android Application Development
+* User-Friendly Interface
+* Startup Resource Platform
+* Mobile-First Design
+
+**Tech Stack:** Android • Java
+
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -190,5 +199,5 @@ Android application focused on startup ecosystem support and business connectivi
 ---
 
 <h3 align="center">
-✨ AI • DATA • DEVELOPMENT • INNOVATION ✨
+✨ AI • DATA ANALYST • WEB DEVELOPMENT •  ✨
 </h3>
