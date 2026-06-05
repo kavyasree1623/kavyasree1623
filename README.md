@@ -2,8 +2,6 @@
 
 # 👩‍💻 Kavya Sree
 
-### AI & Machine Learning Enthusiast | Data Analyst | Power BI Developer | Full Stack Developer
-
 <p>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square"/>
 
@@ -61,13 +59,12 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 
 <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1em1yOXZvZzk1c214MWgwc3pydnM4eWl4ZDh6ajJsMDBmc3cwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qadvd1vBaZBBu/giphy.gif" width="350"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1em1yOXZvZzk1c214MWgwc3pydnM4eWl4ZDh6ajJsMDBmc3cwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qadvd1vBaZBBu/giphy.gif" width="320"/>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 💻 Tech Stack
