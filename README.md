@@ -1,58 +1,67 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Kavya+Sree;AI+%26+Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI+Developer;Full+Stack+Web+Developer;Building+Technology+That+Solves+Real+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Kavya+Sree;AI+%26+Machine+Learning+Enthusiast;Data+Analyst+%7C+Power+BI+Developer;Full+Stack+Web+Developer;Building+Technology+That+Creates+Impact" />
 </p>
 
-<h1 align="center">✨ Welcome To My GitHub ✨</h1>
+<h1 align="center">✨ Welcome To My GitHub Profile ✨</h1>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kavyasree1623&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+</p>
+
+---
 
 <table>
 <tr>
-<td width="60%">
 
-# 🚀 About Me
+<td width="60%" valign="top">
 
-🎓 B.Tech Student in Computer Science Engineering
+# ✨ About Me
 
-💡 Passionate about:
+🎓 B.Tech Computer Science Engineering Student
 
-- Artificial Intelligence & Machine Learning
-- Data Analytics & Business Intelligence
-- Full Stack Development
-- Open Source Contributions
+💻 AI & Machine Learning Enthusiast
 
----
+📊 Data Analyst & Power BI Developer
+
+🌐 Full Stack Web Developer
+
+🚀 Passionate about building technology that solves real-world problems.
+
+<br>
 
 ### 🌱 Currently Learning
 
-✔ Advanced Machine Learning
+- Advanced Machine Learning
+- Data Engineering
+- React.js
+- Cloud Technologies
+- Full Stack Development
 
-✔ Data Engineering
+### 🚀 Currently Building
 
-✔ React.js
-
-✔ Cloud Technologies
-
-✔ Full Stack Development
-
----
+- AI-Powered Applications
+- Machine Learning Projects
+- Data Analytics Dashboards
+- Web Development Solutions
 
 ### 🎯 Career Goal
 
-To become a Data & AI Engineer capable of building intelligent systems that create measurable real-world impact.
-
----
+To become a Data & AI Engineer capable of creating intelligent systems that drive meaningful impact.
 
 ### ⚡ Motto
 
-> "Success doesn't come from what you do occasionally.
-> It comes from what you do consistently."
+> Success doesn't come from what you do occasionally.
+>
+> It comes from what you do consistently.
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI1em1yOXZvZzk1c214MWgwc3pydnM4eWl4ZDh6ajJsMDBmc3cwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qadvd1vBaZBBu/giphy.gif" width="350"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -62,105 +71,145 @@ To become a Data & AI Engineer capable of building intelligent systems that crea
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,git,github,mysql,vscode"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+<img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
+<img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavyasree1623&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyasree1623&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasree1623&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🏢 Venue Booking Application
 
-A responsive venue booking platform developed using HTML, CSS and JavaScript.
+A responsive venue booking platform designed to simplify venue discovery and booking experiences.
 
-### Features
+### Key Features
 
 - Venue Search
-- Booking System
+- Booking Management
 - Responsive Design
-- User Friendly Interface
+- Modern User Interface
 
 ---
 
 ## 🧠 Brain Tumor Classifier
 
-Machine Learning project that predicts brain tumors using medical imaging data.
+Machine Learning project developed to classify brain tumors using medical imaging data.
 
-### Technologies
+### Technologies Used
 
 - Python
 - Machine Learning
-- Data Preprocessing
+- Data Processing
 - Model Evaluation
 
 ---
 
 ## 📈 Netflix Stock Price Performance Analysis
 
-Power BI Dashboard analyzing Netflix stock trends and business insights.
+Interactive Power BI dashboard analyzing Netflix stock performance and market trends.
 
-### Features
+### Highlights
 
-- KPI Tracking
-- Interactive Visualizations
+- KPI Dashboard
+- Interactive Reports
+- Business Insights
 - Trend Analysis
-- Executive Dashboard
 
 ---
 
 ## 📱 StartUp Android App
 
-Android application developed for startup ecosystem solutions.
+Android application focused on startup ecosystem support and business connectivity.
 
 ### Features
 
-- Mobile Friendly UI
-- Android Development
-- Startup Resource Platform
+- Mobile Application Development
+- User-Friendly Interface
+- Startup Resource Integration
 
 ---
 
 # 🏆 Achievements
 
-🥇 Consistently building real-world projects
+🌟 Built multiple real-world projects
 
 📊 Strong interest in Data Analytics
 
 🤖 AI & Machine Learning Enthusiast
 
-💻 Full Stack Development Learner
+💻 Continuous Learning & Development
 
-🌱 Continuous Skill Improvement
+🚀 Passionate About Problem Solving
 
 ---
 
-# 📫 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyasree1623&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://github.com/kavyasree1623">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </p>
@@ -168,5 +217,7 @@ Android application developed for startup ecosystem solutions.
 ---
 
 <h3 align="center">
-✨ AI • Data • Development • Innovation ✨
+
+✨ AI • DATA • DEVELOPMENT • INNOVATION ✨
+
 </h3>
