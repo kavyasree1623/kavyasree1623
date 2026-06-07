@@ -87,10 +87,6 @@ To become a Data & AI Engineer capable of creating intelligent systems that driv
 
 <img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-
-<img src="https://img.shields.io/badge/Data_Analytics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8"/>
-
 </p>
 ---
 
