@@ -186,4 +186,3 @@ A mobile application focused on supporting startup ecosystems and entrepreneuria
 <h3 align="center">
 ✨ AI • DATA ANALYST • WEB DEVELOPMENT •  ✨
 </h3>
-
